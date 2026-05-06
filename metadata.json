@@ -1,0 +1,12 @@
+{
+  "name": "Item7 Go",
+  "description": "High-volume fast-food ordering for Nigeria's favorite quick-service restaurant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Smart Menu",
+    "Real-time Cart",
+    "Guest Checkout"
+  ]
+}
